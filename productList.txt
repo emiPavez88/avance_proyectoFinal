@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Magic Scroll",
+    "price": 2000,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fantasy-and-role-play-game-adventure-quest/512/Spell_Scroll-512.png",
+    "id": 1,
+    "timestamp": "11/17/2021, 10:30:59 PM",
+    "description": "Magic Scroll",
+    "code": 1001,
+    "stock": 100
+  },
+  {
+    "title": "Treasure Map",
+    "price": 50000,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fantasy-and-role-play-game-adventure-quest/512/Adventure_Map-512.png",
+    "id": 2,
+    "timestamp": "11/17/2021, 10:04:57 PM",
+    "description": "Treasure Map",
+    "code": 1002,
+    "stock": 100
+  },
+  {
+    "title": "Battle Sword",
+    "price": 6500,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fantasy-and-role-play-game-adventure-quest/512/Sword-512.png",
+    "id": 3,
+    "timestamp": "11/17/2021, 10:04:57 PM",
+    "description": "Battle Sword",
+    "code": 1003,
+    "stock": 100
+  },
+  {
+    "title": "Fire Spell",
+    "price": 12000,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fantasy-and-role-play-game-adventure-quest/512/Destructive_Magic-512.png",
+    "id": 4,
+    "timestamp": "11/17/2021, 10:04:57 PM",
+    "description": "Fire Spell",
+    "code": 1004,
+    "stock": 100
+  },
+  {
+    "title": "Battle Helmet",
+    "price": 5000,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fantasy-and-role-play-game-adventure-quest/512/Helmet.jpg-512.png",
+    "id": 5,
+    "timestamp": "11/17/2021, 10:04:57 PM",
+    "description": "Battle Helmet",
+    "code": 1005,
+    "stock": 100
+  },
+  {
+    "title": "Ranger Bow",
+    "price": 7000,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/fantasy-and-role-play-game-adventure-quest/512/Bow_Arrow-512.png",
+    "id": 6,
+    "timestamp": "11/17/2021, 10:04:57 PM",
+    "description": "Ranger Bow",
+    "code": 1006,
+    "stock": 100
+  }
+]
